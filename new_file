@@ -1,0 +1,3 @@
+import SoccerNet
+from SoccerNet.Downloader import SoccerNetDownloader
+mySoccerNetDownloader=SoccerNetDownloader(LocalDirectory="/content/drive/Shareddrives/AI referee/SoccerNet")
